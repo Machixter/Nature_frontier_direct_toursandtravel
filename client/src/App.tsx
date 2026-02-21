@@ -11,7 +11,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import NotFound from "@/pages/not-found";
 import Dashboard from "@/pages/dashboard";
 import MapPage from "@/pages/map-page";
-import ShopsPage from "@/pages/shops";
+import ShopsPage from "@/pages/shop";
 import DriversPage from "@/pages/drivers";
 import RoutesPage from "@/pages/routes";
 import TargetsPage from "@/pages/targets";
